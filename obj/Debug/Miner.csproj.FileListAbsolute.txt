@@ -1,0 +1,33 @@
+C:\Users\Kangarion\Downloads\Miner-master\Miner\bin\Debug\Miner.exe.config
+C:\Users\Kangarion\Downloads\Miner-master\Miner\bin\Debug\Miner.exe
+C:\Users\Kangarion\Downloads\Miner-master\Miner\bin\Debug\Miner.pdb
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.csproj.AssemblyReference.cache
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.Form1.resources
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.exe
+C:\Users\Kangarion\Downloads\Miner-master\Miner\obj\Debug\Miner.pdb
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\bin\Debug\Miner.exe.config
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\bin\Debug\Miner.exe
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\bin\Debug\Miner.pdb
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.csproj.AssemblyReference.cache
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.Form1.resources
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.exe
+C:\Users\Kangarion\Desktop\Годовой проект\Miner\Miner\obj\Debug\Miner.pdb
+D:\Miner\Miner\bin\Debug\Miner.exe.config
+D:\Miner\Miner\bin\Debug\Miner.exe
+D:\Miner\Miner\bin\Debug\Miner.pdb
+D:\Miner\Miner\obj\Debug\Miner.csproj.AssemblyReference.cache
+D:\Miner\Miner\obj\Debug\Miner.csproj.SuggestedBindingRedirects.cache
+D:\Miner\Miner\obj\Debug\Miner.Form1.resources
+D:\Miner\Miner\obj\Debug\Miner.Properties.Resources.resources
+D:\Miner\Miner\obj\Debug\Miner.csproj.GenerateResource.cache
+D:\Miner\Miner\obj\Debug\Miner.csproj.CoreCompileInputs.cache
+D:\Miner\Miner\obj\Debug\Miner.exe
+D:\Miner\Miner\obj\Debug\Miner.pdb
